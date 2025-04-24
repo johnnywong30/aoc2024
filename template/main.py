@@ -8,3 +8,7 @@ def pretty_print(part: int, result: Any):
     print("######################################")
 
     return
+
+
+if __name__ == "__main__":
+    pass
